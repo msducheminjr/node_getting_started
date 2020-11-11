@@ -5,7 +5,7 @@ const calcInterval = function(multiplier) {
     result *= 10;
   }
   return result;
-}
+};
 
 const addToChaos = function(fbMessage, frequency) {
   setInterval(
@@ -21,22 +21,24 @@ setInterval(
 );
 
 addToChaos(
-  'Partially false information.\n' +
-  '(Checked by independent fact checkers who agree with Facebook about everything',
+  'Partially false information:\n' +
+  '(Checked by independent fact checkers who agree with Facebook about everything)',
   51000
-  );
+);
 
 addToChaos('Copy and paste (do not share) my digital chain letter!', 48750);
+
+addToChaos("I bet most people won’t repost this. You know who you are.", 53336);
 
 addToChaos('TRUMP IS LITERALLY HITLER!', 56890);
 
 addToChaos('TRUMP IS LITERALLY JESUS!', 79880);
 
-addToChaos('Questionnaire phishing for password reset questions set to public', 57880);
+addToChaos('Questionnaire phishing for password reset questions (always set to public)', 57880);
 
 addToChaos('Ad that knows me creepily well', 81000);
 
-addToChaos('Ad that has no clue about me.', 44000);
+addToChaos('Ad that has no clue about me.', 84000);
 
 addToChaos('Old person sharing missing person case that was closed years ago.', 96000);
 
@@ -50,10 +52,22 @@ addToChaos('Lame meme', 112030);
 
 addToChaos('Actually funny meme', 221070);
 
-addToChaos('Post about somebody\'s life. Why I joined in the first place', 139770);
+addToChaos('Post about somebody\'s life. Why I joined in the first place...', 139770);
 
-addToChaos('Cat video', 221070);
+addToChaos('Cat video', 121070);
 
 addToChaos('Unsolicited friend request', 13888);
 
 addToChaos('I can almost feel Zuckerberg breathing on me', 67002);
+
+addToChaos('[[TRIGGERED OPINIONATED SCREECHING INTENSIFIES]]', 111112);
+
+addToChaos('Food picture', 114322);
+
+addToChaos('Spoiler for the game I was recording', 87654);
+
+addToChaos(
+  "I'm leaving Facebook for good. Join me on [name of new platform]!\n" +
+  "(I'll be back in a month...)",
+  114322
+);
