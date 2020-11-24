@@ -1,4 +1,4 @@
-// https://github.com/msducheminjr/node_getting_started/1-getting-started/2-timers/uncanny-facebook-simulator.js
+// see https://github.com/msducheminjr/uncanny_facebook_simulator for futher updates
 const calcInterval = function(multiplier) {
   result = Math.random() * multiplier;
   if (result < 2000) {
