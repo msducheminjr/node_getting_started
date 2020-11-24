@@ -21,6 +21,7 @@ const o1 = new Person("Max");
 const o2 = new Student("Tina", "1st Grade");
 const o3 = new Student("Mary", "2nd Grade");
 
+// overwrites greet() in class definition
 o3.greet = () => console.log('I am special!');
 
 o1.greet();

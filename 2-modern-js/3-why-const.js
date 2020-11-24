@@ -1,3 +1,6 @@
+// const for scalar values (except for counters)
+// let only for values you want to change
+
 const answer = 42;
 
 /*
