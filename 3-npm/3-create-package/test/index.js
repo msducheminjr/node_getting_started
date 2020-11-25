@@ -1,11 +1,13 @@
-const print = require('frame-print');
+// see https://www.npmjs.com/package/msducheminjr-frame-print
+// GitHub https://github.com/msducheminjr/frame-print
+const print = require('msducheminjr-frame-print');
 
-print('Hello NPM!');
+print('Taxation is theft!');
 
 /*
 Expected Output:
 
 **********
-Hello NPM!
+Taxation is theft!
 **********
 */

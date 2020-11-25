@@ -1,0 +1,22 @@
+{
+  "name": "ngs_test_with_jest",
+  "version": "0.1.0",
+  "description": "Node Getting Started 3-3 with Jest",
+  "main": "index.js",
+  "dependencies": {
+    "msducheminjr-frame-print": "^0.1.0"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "npm",
+    "jest",
+    "ngs"
+  ],
+  "author": "Michael Duchemin",
+  "license": "Unlicense"
+}

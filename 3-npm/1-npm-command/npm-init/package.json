@@ -1,0 +1,16 @@
+{
+  "name": "statelesscode-npm-init",
+  "version": "0.1.0",
+  "description": "Just trying out the npm init command. Node Getting Started course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "nodejs",
+    "ngs"
+  ],
+  "author": "Michael Duchemin",
+  "license": "Unlicense"
+}
