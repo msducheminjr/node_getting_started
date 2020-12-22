@@ -7,4 +7,4 @@ async function main() {
 
 main();
 
-console.log('TEST');
+console.log('TAXATION IS THEFT!');
