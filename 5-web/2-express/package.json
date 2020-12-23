@@ -1,0 +1,19 @@
+{
+  "name": "ngs-2-express",
+  "version": "1.0.0",
+  "description": "Node getting started express npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "ngs"
+  ],
+  "author": "Michael Duchemin",
+  "license": "Unlicense",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
